@@ -1,0 +1,64 @@
+{
+  "tests": [
+    {
+      "name": "Setup y Consulta 1 - Punto más alejado de cada almacén",
+      "setup": "chmod +x 99-test/setup.sh 99-test/run_tests.sh && bash 99-test/setup.sh",
+      "run": "bash 99-test/run_tests.sh 1",
+      "input": "",
+      "output": "1:APROBADA",
+      "comparison": "included",
+      "timeout": 20,
+      "points": 10
+    },
+    {
+      "name": "Consulta 2 - Matriz de distancias almacenes-puntos",
+      "setup": "",
+      "run": "bash 99-test/run_tests.sh 2",
+      "input": "",
+      "output": "2:APROBADA",
+      "comparison": "included",
+      "timeout": 15,
+      "points": 10
+    },
+    {
+      "name": "Consulta 3 - Centro de distribución óptimo",
+      "setup": "",
+      "run": "bash 99-test/run_tests.sh 3",
+      "input": "",
+      "output": "3:APROBADA",
+      "comparison": "included",
+      "timeout": 15,
+      "points": 10
+    },
+    {
+      "name": "Consulta 4 - Ruta de reparto simple",
+      "setup": "",
+      "run": "bash 99-test/run_tests.sh 4",
+      "input": "",
+      "output": "4:APROBADA",
+      "comparison": "included",
+      "timeout": 15,
+      "points": 10
+    },
+    {
+      "name": "Consulta 5 - Agrupamiento de puntos por cercanía (CTE recursiva)",
+      "setup": "",
+      "run": "bash 99-test/run_tests.sh 5",
+      "input": "",
+      "output": "5:APROBADA",
+      "comparison": "included",
+      "timeout": 25,
+      "points": 10
+    },
+    {
+      "name": "Consulta 6 - Pares sin conexión directa",
+      "setup": "",
+      "run": "bash 99-test/run_tests.sh 6",
+      "input": "",
+      "output": "6:APROBADA",
+      "comparison": "included",
+      "timeout": 15,
+      "points": 10
+    }
+  ]
+}
