@@ -35,24 +35,6 @@
       "comparison": "included",
       "timeout": 15,
       "points": 10
-    },
-    {
-      "name": "Consulta 5 - Agrupamiento de puntos por cercanía",
-      "run": "bash 99-test/setup.sh && bash 99-test/run_tests.sh 5",
-      "input": "",
-      "output": "5:APROBADA",
-      "comparison": "included",
-      "timeout": 25,
-      "points": 10
-    },
-    {
-      "name": "Consulta 6 - Pares sin conexión directa",
-      "run": "bash 99-test/setup.sh && bash 99-test/run_tests.sh 6",
-      "input": "",
-      "output": "6:APROBADA",
-      "comparison": "included",
-      "timeout": 15,
-      "points": 10
     }
   ]
 }

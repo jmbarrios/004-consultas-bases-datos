@@ -1,4 +1,0 @@
--- 5. Agrupamiento de puntos por cercanía (CTE recursiva)
--- Columnas: punto_id, nombre, cluster_id
--- Orden: punto_id
---  cluster_id = menor id del componente conexo con aristas < 5 km

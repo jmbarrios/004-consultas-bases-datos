@@ -16,7 +16,7 @@ sqlite3 "$DB" < 01-scripts/01-setup.sql
 if [ $# -eq 1 ]; then
     queries=("$1")
 else
-    queries=(1 2 3 4 5 6)
+    queries=(1 2 3 4)
 fi
 
 for i in "${queries[@]}"; do

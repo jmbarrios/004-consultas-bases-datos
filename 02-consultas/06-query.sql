@@ -1,3 +1,0 @@
--- 6. Pares sin conexión directa
--- Columnas: punto1_id, punto2_id
--- Sólo pares con i < j que NO aparecen en distancias

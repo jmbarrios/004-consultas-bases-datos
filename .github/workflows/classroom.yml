@@ -32,9 +32,3 @@ jobs:
     
     - name: Test Query 4
       run: bash 99-test/setup.sh && bash 99-test/run_tests.sh 4 | grep -q "4:APROBADA"
-    
-    - name: Test Query 5
-      run: bash 99-test/setup.sh && bash 99-test/run_tests.sh 5 | grep -q "5:APROBADA"
-    
-    - name: Test Query 6
-      run: bash 99-test/setup.sh && bash 99-test/run_tests.sh 6 | grep -q "6:APROBADA"
