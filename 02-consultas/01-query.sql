@@ -1,0 +1,3 @@
+-- 1. Identificar el punto de entrega más distante para cada centro de distribución.
+-- Columnas: almacen_id, nombre_almacen, punto_id, nombre_punto, distancia
+-- Orden: almacen_id

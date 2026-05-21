@@ -1,0 +1,11 @@
+id,nombre,lat,lon,demanda
+1,Bellas Artes,19.4352,-99.1413,12
+2,Coyoacán,19.3500,-99.1617,8
+3,Polanco,19.4336,-99.1915,10
+4,Xochimilco,19.2621,-99.1055,5
+5,Iztapalapa,19.3580,-99.0920,15
+6,Tlalpan,19.3200,-99.1600,7
+7,Azcapotzalco,19.4500,-99.1900,9
+8,Gustavo A. Madero,19.4939,-99.1173,11
+9,Venustiano Carranza,19.4285,-99.1150,13
+10,Álvaro Obregón,19.3989,-99.2000,6

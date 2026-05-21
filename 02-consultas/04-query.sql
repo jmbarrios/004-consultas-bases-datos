@@ -1,0 +1,3 @@
+-- 4. Ruta de reparto simple (almacén id=1)
+-- Columnas: punto_id, nombre_punto, distancia, orden
+-- Orden: distancia ascendente

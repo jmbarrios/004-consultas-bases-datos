@@ -1,0 +1,10 @@
+1|Bellas Artes|0.9|1
+9|Venustiano Carranza|2.0|2
+3|Polanco|6.1|3
+7|Azcapotzalco|6.3|4
+8|Gustavo A. Madero|7.0|5
+10|Álvaro Obregón|8.0|6
+5|Iztapalapa|9.4|7
+2|Coyoacán|9.7|8
+6|Tlalpan|12.8|9
+4|Xochimilco|19.2|10

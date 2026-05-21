@@ -1,0 +1,3 @@
+-- 2. Matriz de distancias almacenes-puntos
+-- Columnas: nombre_almacen, nombre_punto, distancia_km
+-- Orden: almacen_id, punto_id

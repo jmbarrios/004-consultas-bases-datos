@@ -1,0 +1,10 @@
+1|Bellas Artes|1
+2|Coyoacán|2
+3|Polanco|3
+4|Xochimilco|4
+5|Iztapalapa|5
+6|Tlalpan|2
+7|Azcapotzalco|3
+8|Gustavo A. Madero|8
+9|Venustiano Carranza|1
+10|Álvaro Obregón|3

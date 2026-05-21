@@ -1,0 +1,30 @@
+Centro|Bellas Artes|0.9
+Centro|Coyoacán|9.7
+Centro|Polanco|6.1
+Centro|Xochimilco|19.2
+Centro|Iztapalapa|9.4
+Centro|Tlalpan|12.8
+Centro|Azcapotzalco|6.3
+Centro|Gustavo A. Madero|7.0
+Centro|Venustiano Carranza|2.0
+Centro|Álvaro Obregón|8.0
+Norte|Bellas Artes|6.5
+Norte|Coyoacán|16.2
+Norte|Polanco|10.0
+Norte|Xochimilco|25.3
+Norte|Iztapalapa|14.8
+Norte|Tlalpan|19.3
+Norte|Azcapotzalco|8.8
+Norte|Gustavo A. Madero|0.5
+Norte|Venustiano Carranza|6.7
+Norte|Álvaro Obregón|13.3
+Sur|Bellas Artes|8.6
+Sur|Coyoacán|1.3
+Sur|Polanco|8.5
+Sur|Xochimilco|12.7
+Sur|Iztapalapa|7.7
+Sur|Tlalpan|4.6
+Sur|Azcapotzalco|10.2
+Sur|Gustavo A. Madero|15.6
+Sur|Venustiano Carranza|9.2
+Sur|Álvaro Obregón|5.6

@@ -1,0 +1,3 @@
+-- 3. Centro de distribución óptimo (mediana)
+-- Columnas: almacen_id, nombre, suma_distancias
+-- Sólo el de menor suma de distancias
