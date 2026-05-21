@@ -1,0 +1,40 @@
+name: GitHub Classroom Autograding
+
+on: [push]
+
+permissions:
+  checks: write
+  actions: read
+  contents: read
+
+jobs:
+  autograding:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+    
+    - name: Install SQLite3
+      run: sudo apt-get update && sudo apt-get install -y sqlite3
+    
+    - name: Make scripts executable
+      run: chmod +x 99-test/setup.sh 99-test/run_tests.sh
+    
+    - name: Test Query 1
+      run: bash 99-test/setup.sh && bash 99-test/run_tests.sh 1 | grep -q "1:APROBADA"
+    
+    - name: Test Query 2
+      run: bash 99-test/setup.sh && bash 99-test/run_tests.sh 2 | grep -q "2:APROBADA"
+    
+    - name: Test Query 3
+      run: bash 99-test/setup.sh && bash 99-test/run_tests.sh 3 | grep -q "3:APROBADA"
+    
+    - name: Test Query 4
+      run: bash 99-test/setup.sh && bash 99-test/run_tests.sh 4 | grep -q "4:APROBADA"
+    
+    - name: Test Query 5
+      run: bash 99-test/setup.sh && bash 99-test/run_tests.sh 5 | grep -q "5:APROBADA"
+    
+    - name: Test Query 6
+      run: bash 99-test/setup.sh && bash 99-test/run_tests.sh 6 | grep -q "6:APROBADA"
